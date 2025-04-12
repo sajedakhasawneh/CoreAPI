@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\source\\repos\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj": {}
+    "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\AngularApp.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\source\\repos\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj": {
+    "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\AngularApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\source\\repos\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\AngularApp.Server.csproj",
         "projectName": "AngularApp.Server",
-        "projectPath": "C:\\Users\\Orange\\source\\repos\\AngularApp\\AngularApp.Server\\AngularApp.Server.csproj",
+        "projectPath": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\AngularApp.Server.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\source\\repos\\AngularApp\\AngularApp.Server\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

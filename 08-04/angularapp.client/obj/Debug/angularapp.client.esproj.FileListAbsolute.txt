@@ -1,1 +1,2 @@
 C:\Users\Orange\source\repos\AngularApp\angularapp.client\obj\Debug\angularapp.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\CoreAPI\08-04\angularapp.client\obj\Debug\angularapp.client.esproj.CoreCompileInputs.cache

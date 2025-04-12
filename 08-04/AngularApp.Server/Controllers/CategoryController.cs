@@ -1,6 +1,7 @@
 ﻿using AngularApp.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AngularApp.Server.Controllers
 {
@@ -8,24 +9,26 @@ namespace AngularApp.Server.Controllers
     [ApiController]
     public class CategoryController : ControllerBase
     {
-        private readonly MyDbContext _context;
+        private readonly AngularApp.Server.IDataService.IDataService _data;
 
-        public CategoryController(MyDbContext context)
+        public CategoryController(AngularApp.Server.IDataService.IDataService data)
         {
-            _context = context;
+            _data = data;
         }
 
         [HttpGet]
         public IActionResult GetAllCategories()
         {
-            var categories = _context.Categories.ToList();
+            var categories = _data.getAllCategories();
             return Ok(categories);
         }
+
+
 
         [HttpGet("categoryByID")]
         public IActionResult GetCategorybyID(int id)
         {
-            var category = _context.Categories.Find(id);
+            var category = _data.getCategoryByID(id);
             if (category != null)
             {
                 return Ok(category);
@@ -40,7 +43,7 @@ namespace AngularApp.Server.Controllers
         [HttpGet("categoryName")]
         public IActionResult getCategoryName(string name)
         {
-            var category = _context.Categories.Where(n => n.Name == name).ToList();
+            var category = _data.CategoryByName(name);
             if (category != null)
             {
                 return Ok(category);
@@ -53,7 +56,7 @@ namespace AngularApp.Server.Controllers
         [HttpGet("firstCategory")]
         public IActionResult getFirstCategory()
         {
-            var category = _context.Categories.First();
+            var category = _data.firstCategory();
             if (category != null)
             {
                 return Ok(category);
@@ -61,6 +64,17 @@ namespace AngularApp.Server.Controllers
             else { 
             return NotFound();
                     }
+        }
+
+        [HttpDelete]
+        public IActionResult deleteCategory(int id) 
+        {
+            var category = _data.deleteCategory(id);
+            if (category != false)
+            {   return Ok(category);
+            }
+            return NotFound();
+
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using AngularApp.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace AngularApp.Server.Controllers
 {
@@ -8,16 +9,18 @@ namespace AngularApp.Server.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private readonly MyDbContext _context;
-        public ProductsController(MyDbContext context) { 
-            _context = context; 
+        private readonly AngularApp.Server.IDataService.IDataService _data;
+
+        public ProductsController(AngularApp.Server.IDataService.IDataService data)
+        {
+            _data = data;
         }
 
 
         [HttpGet]
         public IActionResult getAllProducts()
         {
-            var product = _context.Products.ToList();
+            var product = _data.getAllProducts();
             if (product != null)
             {
                 return Ok(product);
@@ -31,7 +34,7 @@ namespace AngularApp.Server.Controllers
         [HttpGet("Name")]
         public IActionResult getProductName(string name)
         {
-            var product = _context.Products.FirstOrDefault(x => x.Name == name);
+            var product = _data.getProductName(name);
             if (product != null)
             {
                 return Ok(product);
@@ -44,7 +47,7 @@ namespace AngularApp.Server.Controllers
 
         [HttpGet("byID")]
         public IActionResult getProductByID(int id) {
-            var product = _context.Products.Find();
+            var product = _data.getProductByID(id);
             if (product != null) {
                 return Ok(product);
             }
@@ -53,12 +56,25 @@ namespace AngularApp.Server.Controllers
 
 
         [HttpGet("first")]
-        public IActionResult getProductFirst() {
-            var product = _context.Products.First();
-            if (product != null) {
+        public IActionResult getProductFirst()
+        {
+            var product = _data.getProductFirst();
+            if (product != null)
+            {
+                return Ok(product);
+            }
+            else { return NotFound(); }
+        }
+
+        [HttpDelete]
+        public IActionResult deleteProduct(int id) 
+        {
+            var product = _data.deleteProduct(id);
+            if (product != false)
+            {
                 return Ok(product);    
             }
-            else { return NotFound();}
+            return NotFound();
         }
     }
 }
