@@ -1,4 +1,5 @@
-﻿using AngularApp.Server.Models;
+﻿using AngularApp.Server.DTO;
+using AngularApp.Server.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -11,6 +12,7 @@ namespace AngularApp.Server.DataService
         {
             _context = context;
         }
+
 
         public List<Category> getAllCategories()
         {
@@ -84,6 +86,44 @@ namespace AngularApp.Server.DataService
             }
             return false;
 
+        }
+
+
+        public bool addCategory(addCategoryDTO category)
+        {
+
+            //if (category == null)
+            //{
+            //    return false;
+            //}
+            //else
+            //{
+            var category1 = new Category
+            {
+                Name = category.Name,
+                Description = category.Description
+            };
+                 _context.Categories.Add(category1);
+                 _context.SaveChanges ();
+                return true;
+            
+           
+        }
+
+        public bool categoryUpdate(int id, updateCategoryDTO cateogry)
+        {
+            var category = _context.Categories.Find(id);
+            if (category == null) { 
+                return false;
+            }
+            else
+            {
+               category.Name = cateogry.Name;
+                category.Description = cateogry.Description;
+                _context.SaveChanges();
+                return true;
+            }
+            
         }
     }
 }

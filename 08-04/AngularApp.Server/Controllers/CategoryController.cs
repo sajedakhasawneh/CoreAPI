@@ -1,4 +1,5 @@
-﻿using AngularApp.Server.Models;
+﻿using AngularApp.Server.DTO;
+using AngularApp.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -75,6 +76,42 @@ namespace AngularApp.Server.Controllers
             }
             return NotFound();
 
+        }
+
+        [HttpPost]
+        public IActionResult addCategory([FromBody] addCategoryDTO categorydto)
+        {
+            if (categorydto == null)
+            {
+                return BadRequest();   
+            }
+            else
+            {
+              bool cat = _data.addCategory(categorydto);
+                if (cat == false)
+                    return BadRequest();
+                else { 
+                    return Ok(cat);
+                }
+            }
+          
+        }
+
+        [HttpPut]
+        public IActionResult updateCategory(int id, [FromForm] updateCategoryDTO dto )
+        {
+            if(dto == null)
+            {
+                return BadRequest();
+            }
+            else
+            {
+                bool updateedCategory = _data.categoryUpdate(id, dto);
+                if (updateedCategory == false)
+                    return BadRequest();
+                else 
+                return Ok("student info updated successfully");
+            }
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿using AngularApp.Server.Models;
+﻿using AngularApp.Server.DTO;
+using AngularApp.Server.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AngularApp.Server.IDataService
 {
@@ -17,6 +19,10 @@ namespace AngularApp.Server.IDataService
 
         public bool deleteCategory(int id);
         public bool deleteProduct(int id);
+
+        public bool addCategory(addCategoryDTO category);
+        public bool categoryUpdate(int id, updateCategoryDTO cateogry);
+
     }
 
 }
