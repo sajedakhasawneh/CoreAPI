@@ -1,4 +1,5 @@
-﻿using AngularApp.Server.Models;
+﻿using AngularApp.Server.DTO;
+using AngularApp.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -75,6 +76,28 @@ namespace AngularApp.Server.Controllers
                 return Ok(product);    
             }
             return NotFound();
+        }
+
+        [HttpPost]
+        public IActionResult addProduct([FromBody] addProductDTO productdto)
+        {
+            var product = _data.newProduct(productdto);
+            if (product == false)
+            {
+                return BadRequest();
+            }
+            else
+            {
+
+                bool dtoProduct = _data.newProduct(productdto);
+                if (dtoProduct == false)
+                    return BadRequest();
+                else
+                {
+                    return Ok(dtoProduct);
+                }
+
+            }
         }
     }
 }

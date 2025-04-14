@@ -122,8 +122,20 @@ namespace AngularApp.Server.DataService
                 category.Description = cateogry.Description;
                 _context.SaveChanges();
                 return true;
-            }
-            
+            } 
+        }
+
+
+        public bool newProduct(addProductDTO dto)
+        {
+            var product = new Product
+            {
+                Name = dto.Name,
+                Description = dto.Description,
+            };
+            _context.Products.Add(product);
+            _context.SaveChanges();
+            return true;
         }
     }
 }

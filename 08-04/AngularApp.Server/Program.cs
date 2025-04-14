@@ -15,16 +15,20 @@ builder.Services.AddDbContext<MyDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MyConnectionString")));
 
 builder.Services.AddScoped<IDataService, DataService>();
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAllOrigins",
-        builder =>
+builder.Services.AddCors(
+
+    options => options.AddPolicy(
+        "Develop", options =>
         {
-            builder.AllowAnyOrigin()
-                .AllowAnyMethod()
-                .AllowAnyHeader();
-        });
-});
+            options.AllowAnyHeader();
+            options.AllowAnyMethod();
+            options.AllowAnyOrigin();
+        }
+
+        )
+   );
+
+
 var app = builder.Build();
 
 

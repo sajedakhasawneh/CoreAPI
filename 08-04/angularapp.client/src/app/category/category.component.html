@@ -1,5 +1,16 @@
-<div *ngFor="let item of categoryContainer">
-  <h1> {{item.id}}</h1>
-  <h1> {{item.name}}</h1>
-  <h1> {{item.description}}</h1>
-</div>
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">ID</th>
+        <th scope="col">Name</th>
+        <th scope="col">Description</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let item of categoryContainer">
+      <tr>
+        <td> {{item.id}}</td>
+        <td>{{item.name}}</td>
+        <td> {{item.description}}</td>
+      </tr>
+    </tbody>
+  </table>

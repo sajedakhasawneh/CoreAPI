@@ -22,6 +22,7 @@ namespace AngularApp.Server.IDataService
 
         public bool addCategory(addCategoryDTO category);
         public bool categoryUpdate(int id, updateCategoryDTO cateogry);
+        public bool newProduct(addProductDTO dto);
 
     }
 

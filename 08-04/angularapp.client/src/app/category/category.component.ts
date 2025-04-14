@@ -19,4 +19,8 @@ export class CategoryComponent {
       this.categoryContainer = data;
     })
   }
+
+  addCategory() {
+
+  }
 }

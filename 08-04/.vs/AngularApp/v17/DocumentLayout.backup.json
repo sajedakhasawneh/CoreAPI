@@ -3,48 +3,136 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\edit-product\\edit-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\nav\\nav.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\service\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\category\\category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\category\\category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\nav\\nav.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-category\\add-category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-category\\add-category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-category\\add-category.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dataservice\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\idataservice\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dto\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\dto\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\dto\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{3BCC3DA2-9262-445D-BC95-82F6FE6DF610}|angularapp.client\\angularapp.client.esproj|solutionrelative:angularapp.client\\src\\app\\nav\\nav.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|solutionrelative:angularapp.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F6686C7-BF07-46B8-9A23-9F162565F2C8}|AngularApp.Server\\AngularApp.Server.csproj|c:\\users\\orange\\source\\repos\\coreapi\\08-04\\angularapp.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -62,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,85 +161,428 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-product\\add-product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.html",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-product\\add-product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T13:40:31.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "angularapp.client\\src\\app\\app.component.html",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app.component.html",
               "RelativeToolTip": "angularapp.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T06:38:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "add-product.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-product\\add-product.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-product\\add-product.component.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-product\\add-product.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T13:41:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit-product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\edit-product\\edit-product.component.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\edit-product\\edit-product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\edit-product\\edit-product.component.html",
+              "RelativeToolTip": "angularapp.client\\src\\app\\edit-product\\edit-product.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-12T18:31:53.531Z"
+              "WhenOpened": "2025-04-14T13:55:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\product\\product.component.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\product\\product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\product\\product.component.html",
+              "RelativeToolTip": "angularapp.client\\src\\app\\product\\product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T13:50:36.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "url.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\service\\url.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\service\\url.service.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T06:38:00.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nav.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\nav\\nav.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.html",
+              "RelativeToolTip": "angularapp.client\\src\\app\\nav\\nav.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T06:59:01.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "product.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\product\\product.component.ts",
               "RelativeDocumentMoniker": "angularapp.client\\src\\app\\product\\product.component.ts",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\product\\product.component.ts",
               "RelativeToolTip": "angularapp.client\\src\\app\\product\\product.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-04-12T18:24:39.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts",
-              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\category\\category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts",
-              "RelativeToolTip": "angularapp.client\\src\\app\\category\\category.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-12T18:17:19.839Z"
+              "WhenOpened": "2025-04-14T07:00:58.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T07:00:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "category.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.html",
               "RelativeDocumentMoniker": "angularapp.client\\src\\app\\category\\category.component.html",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.html",
               "RelativeToolTip": "angularapp.client\\src\\app\\category\\category.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-12T18:17:15.598Z"
+              "WhenOpened": "2025-04-12T18:17:15.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "url.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts",
-              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\service\\url.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\service\\url.service.ts",
-              "RelativeToolTip": "angularapp.client\\src\\app\\service\\url.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AngularApp.Server\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:10:05.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "category.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\category\\category.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.spec.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\category\\category.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-12T18:07:57.282Z"
+              "WhenOpened": "2025-04-14T13:50:46.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
+              "Title": "addProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\addProductDTO.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\DTO\\addProductDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\addProductDTO.cs",
+              "RelativeToolTip": "AngularApp.Server\\DTO\\addProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:51:01.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "add-category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-category\\add-category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-category\\add-category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T06:53:52.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nav.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.css",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\nav\\nav.component.css",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.css",
+              "RelativeToolTip": "angularapp.client\\src\\app\\nav\\nav.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T13:49:35.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "add-category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-category\\add-category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.html",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-category\\add-category.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T06:53:49.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "add-category.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.css",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-category\\add-category.component.css",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.css",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-category\\add-category.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-14T07:04:09.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "updateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\updateProductDTO.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\DTO\\updateProductDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\updateProductDTO.cs",
+              "RelativeToolTip": "AngularApp.Server\\DTO\\updateProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:50:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AngularApp.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:41:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\IDataService\\IDataService.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\IDataService\\IDataService.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\IDataService\\IDataService.cs",
+              "RelativeToolTip": "AngularApp.Server\\IDataService\\IDataService.cs",
+              "ViewState": "AgIAABUAAACgWJTgDNcjwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:55:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AngularApp.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:28:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DataService\\DataService.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\DataService\\DataService.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DataService\\DataService.cs",
+              "RelativeToolTip": "AngularApp.Server\\DataService\\DataService.cs",
+              "ViewState": "AgIAAHoAAAAA/f////8JwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:55:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-12T18:17:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "updateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\updateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\DTO\\updateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\updateCategoryDTO.cs",
+              "RelativeToolTip": "AngularApp.Server\\DTO\\updateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:04:53.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "addCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\addCategoryDTO.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\DTO\\addCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DTO\\addCategoryDTO.cs",
+              "RelativeToolTip": "AngularApp.Server\\DTO\\addCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:04:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\Product.cs",
+              "RelativeToolTip": "AngularApp.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:48:23.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "add-category.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\add-category\\add-category.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T06:53:51.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "nav.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.ts",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\app\\nav\\nav.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\app\\nav\\nav.component.ts",
+              "RelativeToolTip": "angularapp.client\\src\\app\\nav\\nav.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-14T06:59:42.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\angularapp.client\\src\\index.html",
+              "RelativeToolTip": "angularapp.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-14T07:08:10.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "AngularApp.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:36:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Program.cs",
               "RelativeDocumentMoniker": "AngularApp.Server\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Program.cs",
               "RelativeToolTip": "AngularApp.Server\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T07:56:08.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AngularApp.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Models\\Category.cs",
+              "RelativeToolTip": "AngularApp.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:05:17.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\appsettings.json",
               "RelativeDocumentMoniker": "AngularApp.Server\\appsettings.json",
@@ -163,67 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AngularApp.Server\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAcwEAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:28:45.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "AngularApp.Server\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwE0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:10:05.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DataService\\DataService.cs",
-              "RelativeDocumentMoniker": "AngularApp.Server\\DataService\\DataService.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\DataService\\DataService.cs",
-              "RelativeToolTip": "AngularApp.Server\\DataService\\DataService.cs",
-              "ViewState": "AgIAAEAAAACgRA9VFggqwE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:55:35.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IDataService.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\IDataService\\IDataService.cs",
-              "RelativeDocumentMoniker": "AngularApp.Server\\IDataService\\IDataService.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\IDataService\\IDataService.cs",
-              "RelativeToolTip": "AngularApp.Server\\IDataService\\IDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:55:20.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "AngularApp.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "AngularApp.Server\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T08:28:46.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 33,
               "Title": "CHANGELOG.md",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreAPI\\08-04\\AngularApp.Server\\CHANGELOG.md",
               "RelativeDocumentMoniker": "AngularApp.Server\\CHANGELOG.md",

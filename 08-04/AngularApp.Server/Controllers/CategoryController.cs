@@ -9,6 +9,7 @@ namespace AngularApp.Server.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase
+
     {
         private readonly AngularApp.Server.IDataService.IDataService _data;
 
